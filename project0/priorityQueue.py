@@ -52,14 +52,6 @@ class PriorityQueue:
             if not flag:
                 self.push(item,priority)
 
-'Use the pq to sort a list bu pushing and poping its nodes'
-def PQSort(list):
-    q = PriorityQueue()
-
-    for item in list:
-        q.push(item,item)
-    
-    return (q.pop() for i in range(len(list)))
 
 if __name__ == "__main__":
     q = PriorityQueue()
