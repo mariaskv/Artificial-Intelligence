@@ -1,4 +1,3 @@
-# Artificial-Intelligence-Winter-2020
+# Artificial-Intelligence
 
-This repository contains my projects for the lesson: Artificial Intelligence 1 of the University of Athens
-Projects 0-2 are taken by the Pacman Project - University of Berkley
+Projects 1-3 include my solution for the PacMan - AI Projects from the university of Berkley (http://ai.berkeley.edu/project_overview.html)
